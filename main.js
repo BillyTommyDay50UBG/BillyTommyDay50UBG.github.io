@@ -514,9 +514,9 @@ document.addEventListener('DOMContentLoaded', function () {
 
     // Default customization settings
     const defaultCustomisation = [
-        'https://vtt.edu.vn/wp-content/uploads/2023/07/What-is-the-Skibidi-toilet-All-episodes.jpg',  // Default background image
-        '#000000',          // Default primary color
-        '#FFFFFF',          // Default secondary color
+        'https://i.imghippo.com/files/RjD4488Ypc.gif',  // Default background image
+        '#b4b061',          // Default primary color
+        '#e9e597',          // Default secondary color
         '1600'              // Default background resolution
     ].join('\n');
 
