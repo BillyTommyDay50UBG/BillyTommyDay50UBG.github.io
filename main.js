@@ -514,7 +514,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
     // Default customization settings
     const defaultCustomisation = [
-        'https://i.imghippo.com/files/OH1235lDY.png',  // Default background image
+        '/background.png',  // Default background image
         '#b4b061',          // Default primary color
         '#e9e597',          // Default secondary color
         '1600'              // Default background resolution
