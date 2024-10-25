@@ -516,7 +516,7 @@ document.addEventListener('DOMContentLoaded', function () {
     const defaultCustomisation = [
         '/background.gif',  // Default background image
         '#b4b061',          // Default primary color
-        '#e9e597',          // Default secondary color
+        '#e9e596',          // Default secondary color
         '1600'              // Default background resolution
     ].join('\n');
 
